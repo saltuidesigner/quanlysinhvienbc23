@@ -1,0 +1,46 @@
+.form-inline{
+    border: 1px solid #ccc;
+    border-radius:4px;
+}
+.form-header {
+    text-align: center;
+    background-color: #343A40;
+    color: white;
+    padding: 15px 0px;
+}
+.form {
+    padding: 30px 20px;
+    border: 1px solid #ccc;
+    border-left: none;
+    border-right:none;
+}
+.form-footer {
+    background-color: #F7F7F7;
+    padding: 15px 0px;
+    text-align:end;
+}
+.form-footer button {
+    margin-right: 15px;
+
+}
+
+/* TABLE */
+.table .table-head {
+    color: white;
+    padding: 10px 5px;
+    width: 100%;
+    outline:none;
+    text-align:center;
+}
+.table .table-body{
+    text-align:center;
+}
+.table .table-body .maNhanVien {
+    text-align:start;
+}
+
+/* validation error message  */
+
+.error-msg {
+    color:red;
+}
